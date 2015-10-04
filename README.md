@@ -1,6 +1,6 @@
 # StatusNotifierItemJava
 
-This is a Java implementation of the [StatusNotifierItem specification](http://www.freedesktop.org/wiki/Specifications/StatusNotifierItem/StatusNotifierItem/).
+This is a Java implementation of the [StatusNotifierItem](http://www.freedesktop.org/wiki/Specifications/StatusNotifierItem/StatusNotifierItem/) specification.
 
 Dependencies:
 + [Java DBus bindings](http://www.freedesktop.org/wiki/Software/DBusBindings/)
